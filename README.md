@@ -85,4 +85,11 @@ This project uses curated subsets of publicly available hydrophone recordings fr
 
 ---
 
+## Contact
+
+Name: Drishti Gupta
+Email: drishtigupta700@gmail.com
+
+---
+
 A small scientific thought to end on: hydrophones reveal that the ocean is not a silent world but a **dense acoustic ecosystem**—a mixture of biological signals and human activity. Teaching machines to interpret those signals is a step toward understanding and protecting that hidden soundscape.
