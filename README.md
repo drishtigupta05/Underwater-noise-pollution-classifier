@@ -88,6 +88,7 @@ This project uses curated subsets of publicly available hydrophone recordings fr
 ## Contact
 
 Name: Drishti Gupta
+
 Email: drishtigupta700@gmail.com
 
 ---
